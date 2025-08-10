@@ -1,6 +1,6 @@
-# 🤖 myMLLib – Machine Learning from Scratch in Python
+# 🤖 myMLlib – Machine Learning from Scratch in Python
 
-> **myMLLib** is a growing collection of machine learning algorithms implemented from scratch in Python.  
+> **myMLlib** is a growing collection of machine learning algorithms implemented from scratch in Python.  
 > The goal is to make ML concepts **clear, accessible, and customizable** — while keeping the code clean and framework-free.
 
 Currently includes:

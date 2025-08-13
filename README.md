@@ -36,3 +36,5 @@ Clone the repository and start using immediately:
 ```bash
 git clone https://github.com/MaheshReddy-ML/myMLlib.git
 cd myMLlib
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
